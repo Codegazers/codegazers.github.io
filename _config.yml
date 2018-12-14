@@ -39,11 +39,10 @@ share:
 urls:
     - text: About Me
       url: https://about.me/frjaraur
-    - text: My Projects
-      # url: /projects/
-      url: https://github.com/codegazers
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #    url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
 
 url: "https://codegazers.github.io"
 baseurl: ""

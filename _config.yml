@@ -4,11 +4,12 @@ author: Javier Ramírez
 theme_author: agus makmun
 theme_github: https://github.com/agusmakmun
 about: 
-    - line: Javier Ramírez Urea
     - line: Technology Advocate
     - line: Docker Captain
     - line: Docker Certificate Associate
     - line: Docker Certified Instructor
+    - line: Microsoft Certified Systems Engineer
+    - line: HP Openview Solutions Certified
 disqus_shortname: frjaraur
 avatar_url: /static/img/avatar.png
 

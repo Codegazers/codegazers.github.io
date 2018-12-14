@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto Condensed", Arial, sans-serif;
-  background: url("/static/img/subtle_dots.png");
+  /* background: url("/static/img/subtle_dots.png"); */
+  background-color: black;
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
@@ -40,7 +41,7 @@ a:hover {
 
 /* Layout */
 .main-layout {
-  background: rgba(32, 28, 28, 0.986);
+  background: rgb(70, 65, 65);
 }
 .sidebar-nav {
   margin: 0;

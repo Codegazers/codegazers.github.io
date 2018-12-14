@@ -3,7 +3,11 @@ description: Bitacora
 author: Javier Ramírez
 theme_author: agus makmun
 theme_github: https://github.com/agusmakmun
-about: Javier Ramírez Urea - Technology Advocate, Docker Captain, Docker Certificate Associate and Docker Certified Instructor
+about: Javier Ramírez Urea
+       Technology Advocate
+       Docker Captain
+       Docker Certificate Associate
+       Docker Certified Instructor
 disqus_shortname: frjaraur
 avatar_url: /static/img/avatar.png
 

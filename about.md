@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+Javier Ramírez Urea - Technology Advocate, Docker Captain, Docker Certificate Associate and Docker Certified Instructor
 
-email: agus[at]python.web.id
+email: frjaraur[at]gmail.com

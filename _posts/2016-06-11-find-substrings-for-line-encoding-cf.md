@@ -2,7 +2,7 @@
 layout: post
 title:  "Find Substrings for line Encoding [CF]"
 date:   2016-06-11 03:04:23 +0700
-categories: [python, codefights]
+categories: [python, kubernetes]
 ---
 
 Given a string, return its encoding defined as follows:
@@ -15,7 +15,7 @@ Finally, all the new strings are concatenated together in the same order and a n
 
 #### SUBSTRING
 
-A **substring** of a string `S` is another string `S'` that occurs in `S`. For example, `"Fights"` is a substring of `"CodeFights"`, but `"CoFi"` isn't.
+A **substring** of a string `S` is another string `S'` that occurs in `S`. For example, `"Fights"` is a substring of `"kubernetes"`, but `"CoFi"` isn't.
 
 **Example**
 

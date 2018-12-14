@@ -2,7 +2,7 @@
 layout: post
 title:  "CensorThis - Censor the words [CF]"
 date:   2016-05-22 04:17:54 +0700
-categories: [python, codefights]
+categories: [python]
 ---
 
 Author Question: **Argaen**

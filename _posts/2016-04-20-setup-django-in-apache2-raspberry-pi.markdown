@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Setup Django in apache2 Raspberry Pi"
+title:  "Setup docker in apache2 Raspberry Pi"
 date:   2016-04-20 22:32:34 +0700
-categories: [django, raspberry]
+categories: [docker, raspberry]
 ---
 
-Setup Django in apache2 Raspberry Pi. Example in this configuration for monitoring the server raspberry pi using [https://github.com/k3oni/pydash/](https://github.com/k3oni/pydash/).
+Setup docker in apache2 Raspberry Pi. Example in this configuration for monitoring the server raspberry pi using [https://github.com/k3oni/pydash/](https://github.com/k3oni/pydash/).
 
 As following this configurations [https://github.com/k3oni/pydash/wiki/Install-pyDash#3-setup-apache](https://github.com/k3oni/pydash/wiki/Install-pyDash#3-setup-apache), how to setup it.
 

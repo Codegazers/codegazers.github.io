@@ -2,7 +2,7 @@
 layout: post
 title:  "notPaired [CF]"
 date:   2016-05-22 04:10:03 +0700
-categories: [python, codefights]
+categories: [python, kubernetes]
 ---
 
 Author Question: **Lepluto**

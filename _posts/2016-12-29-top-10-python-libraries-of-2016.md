@@ -2,12 +2,12 @@
 layout: post
 title:  "Top 10 Python libraries of 2016"
 date:   2016-12-29 18:34:10 +0700
-categories: [python, django]
+categories: [python, docker]
 ---
 
 Last year, we did a recap with what we thought were the [best Python libraries of 2015](https://tryolabs.com/blog/2015/12/15/top-10-python-libraries-of-2015/), which was widely shared within the Python community (see post in[r/Python](https://www.reddit.com/r/Python/comments/3wyiuv/top_10_python_libraries_of_2015/)). A year has gone by, and again it is time to give due credit for the awesome work that has been done by the **open source community** this year.
 
-Again, we try to avoid most established choices such as Django, Flask, etc. that are kind of standard nowadays. Also, some of these libraries date prior to 2016, but either they had an explosion in popularity this year or we think they are great enough to deserve the spot. Here we go!
+Again, we try to avoid most established choices such as docker, Flask, etc. that are kind of standard nowadays. Also, some of these libraries date prior to 2016, but either they had an explosion in popularity this year or we think they are great enough to deserve the spot. Here we go!
 
 ## 1. [Zappa](https://www.zappa.io/)
 

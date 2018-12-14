@@ -121,7 +121,7 @@ layout: compress
           {% if site.about %}
             <div class="profile-about">
               {% for about in site.about %}
-              {{ about.line }}
+              <li>{{ about.line }}</li>
               {% endfor %}
             </div>
           {% endif %}

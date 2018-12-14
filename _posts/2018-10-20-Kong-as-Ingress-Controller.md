@@ -2,7 +2,7 @@
 layout: post
 title:  "Setup Kong as Ingress Controller"
 date:   2018-10-20 11:30:00 +0100
-categories: [kubernetes, kong]
+categories: [kubernetes, api]
 ---
 
 ## We will use Minikube for a Quick Demo

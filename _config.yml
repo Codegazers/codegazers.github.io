@@ -40,7 +40,8 @@ urls:
     - text: About Me
       url: https://about.me/frjaraur
     - text: My Projects
-      url: /projects/
+      # url: /projects/
+      url: https://github.com/codegazers
     - text: XML Feed
       url: /feed.xml
 

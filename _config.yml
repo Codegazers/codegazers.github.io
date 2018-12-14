@@ -27,7 +27,7 @@ social:
       link: "https://github.com/codegazers"
 share:
   twitter_username: frjaraur
-  fb_appid: 1749788565247320
+  #fb_appid: 1749788565247320
 
 urls:
     - text: About Me

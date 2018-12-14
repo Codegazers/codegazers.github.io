@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup Kong as Ingress Controller"
-date:   
+date:   2018-10-20 11:30:00 +0100
 categories: [kubernetes, kong]
 ---
 

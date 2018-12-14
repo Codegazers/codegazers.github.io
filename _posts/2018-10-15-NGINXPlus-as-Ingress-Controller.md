@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup NGINX Plus as Ingress Controller"
-date:   
+date:   2018-10-15 11:30:00 +0100
 categories: [kubernetes, NGINX]
 ---
 

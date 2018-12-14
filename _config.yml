@@ -39,6 +39,8 @@ share:
 urls:
     - text: About Me
       url: https://about.me/frjaraur
+    - text: Corporate Site
+      url: https://www.hoplasoftware.com
     # - text: My Projects
     #    url: /projects/
     # - text: XML Feed

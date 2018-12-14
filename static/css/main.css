@@ -20,7 +20,7 @@ span.time, span.categories {
   font-size: 11px;
 }
 h1, h2, h3 {
-  color: #696969;
+  color: #ffffff;
   font-weight: normal;
 }
 h1 {
@@ -67,7 +67,7 @@ div.content pre {
   border: none;
 }
 div.content .highlight {
-	background: #333333;
+	background: #000000;
 }
 footer {
   border-top: 1px solid #F7F1F1;

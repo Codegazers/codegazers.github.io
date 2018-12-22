@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting With Istio"
-NOT_PUBLISHED_date:   2018-12-22 11:30:00 +0100
+date:   NOT_PUBLISHED_2018-12-22 11:30:00 +0100
 categories: [kubernetes]
 ---
 
